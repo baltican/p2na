@@ -24,7 +24,8 @@ requires = [ #I had to comment here to use conda installation instead of pip
 #    'Pillow',
     'where',
 #    'docopt',
-    'numpy'
+    'numpy',
+    'Flask'
 ]
 
 test_requires = [
